@@ -1,0 +1,3 @@
+[submodule "hyper/hyper"]
+	path = hyper/hyper
+	url = git@github.com:hyperium/hyper.git
